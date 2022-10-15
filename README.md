@@ -2,7 +2,7 @@
 
 :dart: I’m currently learning Python, tensorflow, keras, scikit_learn, SQL, GIT, FastAPI and Streamlit
 
-:kite: You can find all my personal and student projects here
+:kite: You can find all my personal and student (private currently) projects here
 
 
 <h3 align="left">Languages and Tools :hammer_and_wrench:</h3>
