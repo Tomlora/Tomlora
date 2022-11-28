@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:dart: I’m currently learning Python, tensorflow, keras, scikit_learn, SQL, GIT, FastAPI and Streamlit
+:dart: I’m currently working with Python, Tensorflow, Keras, Scikit_learn, SQL, GIT, FastAPI and Streamlit to analyse data and solve Data Science Problems.
 
 :kite: You can find all my personal and student (private currently) projects here
 
