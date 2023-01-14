@@ -26,4 +26,5 @@
    <a href="https://github.com/Tomlora">
    <img height="148em" src="https://github-readme-stats.vercel.app/api?username=Tomlora&show_icons=true&theme=algolia&include_all_commits=false&count_private=true"/>
   <img height="148em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomlora&layout=compact&langs_count=4&theme=algolia"/>
+
 </div>
